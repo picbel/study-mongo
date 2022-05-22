@@ -1,7 +1,6 @@
 package com.study.mongo.repository
 
 import com.study.mongo.aggregate.Post
-import com.sun.tools.javac.jvm.ByteCodes.ret
 import org.springframework.data.annotation.Id
 
 class PostEntity(
